@@ -14,8 +14,7 @@
 			<property name="javax.jdo.option.ConnectionDriverName" value="com.mysql.jdbc.Driver"/>
 			<property name="javax.jdo.option.ConnectionURL" value="jdbc:mysql://127.0.0.1:3306/chen"/>
 			<property name="javax.jdo.option.ConnectionUserName" value="root"/>
-			<property name="javax.jdo.option.ConnectionPassword" value=""/>
-
+			<property name="javax.jdo.option.ConnectionPassword" value="root"/>
             <property name="datanucleus.schema.autoCreateAll" value="true"/>
         </properties>
     </persistence-unit>
