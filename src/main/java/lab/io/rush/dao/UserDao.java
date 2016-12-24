@@ -1,4 +1,4 @@
-package lab.io.rush.Dao;
+package lab.io.rush.dao;
 
 import java.util.List;
 
@@ -8,57 +8,31 @@ import javax.jdo.Transaction;
 
 import org.springframework.stereotype.Component;
 
-import lab.io.rush.Entity.User;
-import lab.io.rush.Util.MyPmUtil;
+import lab.io.rush.entity.User;
+import lab.io.rush.util.MyPmUtil;
 
-@Component
-public class UserDao {
+public interface UserDao {
 
-
-	public int login(String username, String password) {
-		 PersistenceManager pm = MyPmUtil.getPm();
-	     Transaction tx = MyPmUtil.getTx();
-	     tx.begin();
-	     Query q = pm.newQuery("SELECT FROM " + User.class.getName()+"  WHERE name == '"+username+"'"+"&& password =='" + password+"'");
-         List<User> holders = (List<User>) q.execute();
-         if(holders.size() > 0){
-        	tx.commit();
-         	return 1;
-         }
-         tx.commit();
-		return 0;
-	}
-
-	public User findUserByname(String username) {
-		 PersistenceManager pm = MyPmUtil.getPm();
-	     Transaction tx = MyPmUtil.getTx();
-	     tx.begin();
-	     Query q = pm.newQuery("SELECT FROM " + User.class.getName()+"  WHERE name == '"+username+"'");
-	     q.setUnique(true);
-	     User user = (User) q.execute();
-	     tx.commit();
-	     return user;
-
-	}
-
-	public String regist(String mail, String username, String password) {
-		String msg  = "";
-		PersistenceManager pm = MyPmUtil.getPm();
-	    Transaction tx = MyPmUtil.getTx();
-	    tx.begin();
-		User user = new User(username,password,mail);
-
-		Query q = pm.newQuery("SELECT FROM " + User.class.getName()+"  WHERE name == '"+username+"'");
-		List<User> users = (List<User>) q.execute();
-		if(users.size() > 0){
-			msg = "用户已存在";
-		}else{
-			msg = "注册成功，请登陆";
-			pm.makePersistent(user);
-			
-		}
-		tx.commit();
-		return msg;
-	}
+	/**
+	 * 判断登录是否成功
+	 * @param username 用户名
+	 * @param password 密码
+	 * @return 登录成功返回1,失败返回0
+	 */
+	public int login(String username, String password);
+	/**
+	 * 根据名字查找用户
+	 * @param username 用户名
+	 * @return 返回用户对象
+	 */
+	public User findUserByname(String username);
+	/**
+	 * 注册
+	 * @param mail 邮箱
+	 * @param username 用户名
+	 * @param password 密码
+	 * @return 返回
+	 */
+	public int regist(String mail, String username, String password);
 
 }

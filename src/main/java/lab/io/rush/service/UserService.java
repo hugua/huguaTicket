@@ -1,30 +1,44 @@
-package lab.io.rush.Service;
+package lab.io.rush.service;
 
 import javax.annotation.Resource;
 
 import org.springframework.stereotype.Component;
 
-import lab.io.rush.Dao.UserDao;
-import lab.io.rush.Entity.User;
+import lab.io.rush.dao.UserDao;
+import lab.io.rush.entity.User;
 
-@Component
-public class UserService {
-	@Resource
-	private UserDao userdao;
+/**
+ * 用户类业务层接口
+ * @author chen
+ *
+ */
+public interface UserService {
+	/**
+	 * 判断登录是否成功
+	 * @param username 用户名
+	 * @param password 密码
+	 * @return 登录成功返回1,失败返回0
+	 */
+	public int login(String username, String password);
 
-	public int login(String username, String password) {
-		return userdao.login(username,password);
-	}
+
+	/**
+	 * 根据名字查找用户
+	 * @param username 用户名
+	 * @return 返回用户对象
+	 */
+	public User findUserByname(String username);
 
 
-	public User findUserByname(String username) {
-		
-		return userdao.findUserByname(username);
-	}
+	/**
+	 * 注册
+	 * @param mail 邮箱
+	 * @param username 用户名
+	 * @param password 密码
+	 * @return 返回
+	 */
+	public int regist(String mail, String username, String password) ;
 
 
-	public String regist(String mail, String username, String password) {
-		return userdao.regist(mail,username,password);
-	}
 
 }

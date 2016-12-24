@@ -1,4 +1,4 @@
-package lab.io.rush.Util;
+package lab.io.rush.util;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

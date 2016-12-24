@@ -1,4 +1,4 @@
-package lab.io.rush.Entity;
+package lab.io.rush.entity;
 
 import java.io.Serializable;
 

@@ -1,18 +1,23 @@
-package lab.io.rush.Controller;
+package lab.io.rush.controller;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import lab.io.rush.Entity.Film;
-import lab.io.rush.Service.TicketService;
-import lab.io.rush.Service.UserService;
+import lab.io.rush.entity.Film;
+import lab.io.rush.service.TicketService;
+import lab.io.rush.service.UserService;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;
 
+/**
+ * 用户登录控制器
+ * @author chen
+ *
+ */
 @Component
 @RequestMapping("/login.do")
 public class loginController{

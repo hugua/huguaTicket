@@ -1,4 +1,4 @@
-package lab.io.rush.Controller;
+package lab.io.rush.controller;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -10,6 +10,11 @@ import org.springframework.web.servlet.mvc.Controller;
 
 import redis.clients.jedis.Jedis;
 
+/**
+ * 定时刷新控制器，用来实时刷新剩余票数
+ * @author chen
+ *
+ */
 @Component
 @RequestMapping("/refresh.do")
 public class refreshController {

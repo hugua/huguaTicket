@@ -18,5 +18,7 @@
     <!--对模型视图名称的解析，即在模型视图名称添加前后缀 -->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" 
          p:suffix=".jsp"/>
-    <bean id="initController" class="lab.io.rush.Controller.initController"></bean>
+    <bean id="initController" class="lab.io.rush.controller.initController"></bean>
+ 
+
 </beans>

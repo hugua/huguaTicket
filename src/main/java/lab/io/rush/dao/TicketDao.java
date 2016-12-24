@@ -1,4 +1,4 @@
-package lab.io.rush.Dao;
+package lab.io.rush.dao;
 
 import java.util.List;
 
@@ -8,44 +8,31 @@ import javax.jdo.Transaction;
 
 import org.springframework.stereotype.Component;
 
-import lab.io.rush.Entity.Film;
-import lab.io.rush.Util.MyPmUtil;
+import lab.io.rush.entity.Film;
+import lab.io.rush.util.MyPmUtil;
 
-@Component
-public class TicketDao {
+/**
+ * 用户类数据库接口层
+ * @author chen
+ *
+ */
+public interface TicketDao {
 
+	/**
+	 * 根据id查找电影
+	 * @param filmid  电影id
+	 * @return 返回电影对象
+	 */
+	public Film getfilmByid(String filmid);
+	/**
+	 * 查找可预定的电影信息
+	 * @return 返回电影对象列表
+	 */
+	public List<Film> findSellingTicket();
 
-	public Film getfilmByid(String filmid) {
-		PersistenceManager pm = MyPmUtil.getPm();
-		Transaction tx = MyPmUtil.getTx();
-		tx.begin();
-		Query q = pm.newQuery("SELECT FROM " + Film.class.getName() +" WHERE id == "+ filmid);
-		q.setUnique(true);
-		Film film= (Film)q.execute();
-		tx.commit();
-		return film;
-	}
-
-
-	public List<Film> findSellingTicket() {
-		PersistenceManager pm = MyPmUtil.getPm();
-		Transaction tx = MyPmUtil.getTx();
-		tx.begin();
-		Query q = pm.newQuery("SELECT FROM " + Film.class.getName()+" WHERE number > 0") ;
-		List<Film> films= (List<Film>)q.execute();
-		tx.commit();	
-		return films;
-	}
-
-
-	public List<Film> findTicket() {
-		PersistenceManager pm = MyPmUtil.getPm();
-		Transaction tx = MyPmUtil.getTx();
-		tx.begin();
-		Query q = pm.newQuery("SELECT FROM " + Film.class.getName()) ;
-		List<Film> films= (List<Film>)q.execute();
-		tx.commit();	
-		return films;
-	}
-
+	/**
+	 * 查找所有的电影信息
+	 * @return 返回电影对象列表
+	 */
+	public List<Film> findTicket();
 }

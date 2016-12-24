@@ -4,19 +4,10 @@
     xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_1_0.xsd"
     version="1.0">
 
-    <persistence-unit name="MyTest">
-		<class>lab.io.rush.Entity.User</class>
-		<class>lab.io.rush.Entity.Film</class>
-		<class>lab.io.rush.Entity.user2ticket</class>
+    <persistence-unit name="MyTest" transaction-type="RESOURCE_LOCAL">
+		<class>lab.io.rush.entity.User</class>
+		<class>lab.io.rush.entity.Film</class>
+		<class>lab.io.rush.entity.user2ticket</class>
         <exclude-unlisted-classes />
-        <properties>
-            <property name="javax.jdo.PersistenceManagerFactoryClass" value="org.datanucleus.api.jdo.JDOPersistenceManagerFactory"/>
-			<property name="javax.jdo.option.ConnectionDriverName" value="com.mysql.jdbc.Driver"/>
-			<property name="javax.jdo.option.ConnectionURL" value="jdbc:mysql://127.0.0.1:3306/chen"/>
-			<property name="javax.jdo.option.ConnectionUserName" value="root"/>
-			<property name="javax.jdo.option.ConnectionPassword" value="root"/>
-            <property name="datanucleus.schema.autoCreateAll" value="true"/>
-        </properties>
     </persistence-unit>
-
 </persistence>
