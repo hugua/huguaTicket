@@ -6,6 +6,7 @@ import javax.annotation.Resource;
 
 import lab.io.rush.entity.Film;
 import lab.io.rush.service.TicketService;
+import lab.io.rush.util.redisUtil;
 
 import org.springframework.beans.factory.InitializingBean;
 
@@ -16,18 +17,17 @@ import redis.clients.jedis.Jedis;
  * @author chen
  *
  */
-public class initController implements InitializingBean {
+public class initController  {
 
 	//电影票业务层
 	@Resource
 	private TicketService ticketService;
 
 	//这个方法是这个类加载时自动执行的
-	@Override
-	public void afterPropertiesSet() throws Exception {
+	public void init() throws Exception {
 		System.out.println("initController");
 		//创建redis，这里使用的是java的jedis
-		final Jedis jedis = new Jedis("127.0.0.1", 6379);
+		final Jedis jedis = redisUtil.getRedis();
 		//查找所有可以预定的电影票信息
 		final List<Film> films = ticketService.findSellingTicket();
 		//查找其中可预定的电影票

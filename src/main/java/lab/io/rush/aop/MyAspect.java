@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 //@Aspect声明切面（横截面）组件
 @Aspect
 @Component
-public class DemoAspect {
+public class MyAspect {
 
 	 
     @Pointcut("execution(* lab.io.rush.service.*.*(..))")  

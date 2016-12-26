@@ -8,6 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import lab.io.rush.entity.Film;
 import lab.io.rush.service.TicketService;
+import lab.io.rush.util.redisUtil;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -33,7 +34,7 @@ public class indexController {
 		//查找所以的电影
 		System.out.println("index.do");
 		List<Film> films = ticketService.findTicket();
-		Jedis jedis = new Jedis("127.0.0.1", 6379);
+		Jedis jedis = redisUtil.getRedis();
 		//存储可预定的电影票数
 		for(Film f : films){
 			if(f.getNumber()>0)

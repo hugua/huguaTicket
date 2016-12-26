@@ -23,18 +23,18 @@
     <!-- 数据库连接配置 -->
 	 <bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
 		   <property name="driverClassName"  value="com.mysql.jdbc.Driver"/>
-		   <property name="url" value="jdbc:mysql://127.0.0.1:3306/chen"/>
+		   <property name="url" value="jdbc:mysql://101.201.70.216/chen"/>
 		   <property name="username" value="root"/>
 		   <property name="password" value="root"/>
 		 </bean>
-		     
-		 <bean id="myPmf" class="org.datanucleus.api.jdo.JDOPersistenceManagerFactory" destroy-method="close">
-		   <property name="connectionFactory" ref="dataSource"/>
-		   <property name="nontransactionalRead" value="true"/>
-		 </bean>
-		 <!-- 事务配置 -->
-		 <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
-			<property name="dataSource" ref="dataSource" />
-		</bean>
+	<!-- 数据库连接工具厂 -->     
+	 <bean id="myPmf" class="org.datanucleus.api.jdo.JDOPersistenceManagerFactory" destroy-method="close">
+	   <property name="connectionFactory" ref="dataSource"/>
+	   <property name="nontransactionalRead" value="true"/>
+	 </bean>
+	 <!-- 事务配置 -->
+	 <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+		<property name="dataSource" ref="dataSource" />
+	</bean>
 
 </beans>

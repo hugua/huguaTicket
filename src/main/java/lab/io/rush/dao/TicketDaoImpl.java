@@ -11,7 +11,7 @@ import javax.jdo.Transaction;
 import org.springframework.stereotype.Component;
 
 import lab.io.rush.entity.Film;
-import lab.io.rush.util.MyPmUtil;
+
 
 @Component("TicketDao")
 public class TicketDaoImpl  implements TicketDao{

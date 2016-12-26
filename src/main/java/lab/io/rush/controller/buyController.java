@@ -8,6 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import lab.io.rush.entity.User;
 import lab.io.rush.service.UserService;
 import lab.io.rush.util.Mymail;
+import lab.io.rush.util.redisUtil;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -33,7 +34,7 @@ public class buyController  {
 			HttpServletResponse response) throws Exception {
 		System.out.println("buy.do");
 		//创建redis对象
-		Jedis jedis = new Jedis("127.0.0.1", 6379);
+		Jedis jedis = redisUtil.getRedis();
 		String filmid = request.getParameter("id");
 		String filmname = request.getParameter("filmname");
 		int number = Integer.parseInt(jedis.get(filmid));

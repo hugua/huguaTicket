@@ -6,6 +6,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import lab.io.rush.entity.Film;
 import lab.io.rush.service.TicketService;
+import lab.io.rush.util.redisUtil;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -32,7 +33,7 @@ public class previewController{
 		String filmid = request.getParameter("filmid");
 		Film film = ticketService.getfilmByid(filmid);
 		ModelAndView view = new ModelAndView("preview");
-		Jedis jedis = new Jedis("127.0.0.1", 6379);
+		Jedis jedis = redisUtil.getRedis();
 		film.setNumber(Integer.parseInt(jedis.get(film.getId()+"")));
 		jedis.close();
 		view.addObject("film", film);

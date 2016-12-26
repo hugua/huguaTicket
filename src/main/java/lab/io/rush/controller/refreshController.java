@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;
 
+import lab.io.rush.util.redisUtil;
 import redis.clients.jedis.Jedis;
 
 /**
@@ -24,7 +25,7 @@ public class refreshController {
 			HttpServletResponse response) throws Exception {
 		System.out.println("refresh.do");
 		String filmid = request.getParameter("id");
-		Jedis jedis = new Jedis("127.0.0.1", 6379);
+		Jedis jedis = redisUtil.getRedis();
 		int number = Integer.parseInt(jedis.get(filmid));
 		response.getWriter().write(number+"");
 		jedis.close();

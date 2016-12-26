@@ -9,7 +9,6 @@ import javax.jdo.Transaction;
 import org.springframework.stereotype.Component;
 
 import lab.io.rush.entity.User;
-import lab.io.rush.util.MyPmUtil;
 
 public interface UserDao {
 
