@@ -1,0 +1,850 @@
+00:04:09,807 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:04:09,983 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:04:09,984 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:04:09,984 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:04:09,984 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:04:13,257 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:04:13,436 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\Film.class" with enhanced definition
+00:04:13,447 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\User.class" with enhanced definition
+00:04:13,456 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\user2ticket.class" with enhanced definition
+00:04:13,461 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:04:15,102 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:04:15,252 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:04:15,253 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:04:15,254 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:04:15,254 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:04:45,900 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:04:46,067 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:04:46,068 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:04:46,069 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:04:46,069 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:04:58,943 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:04:59,112 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:04:59,113 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:04:59,113 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:04:59,114 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:05:36,051 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:05:36,210 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:05:36,212 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:05:36,213 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:05:36,213 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:05:47,118 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:05:47,298 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:05:47,299 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:05:47,300 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:05:47,300 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:06:42,969 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:06:43,152 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:06:43,153 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:06:43,153 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:06:43,154 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:06:53,969 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:06:54,163 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:06:54,165 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:06:54,167 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:06:54,168 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:09:15,294 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:09:15,468 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:09:15,469 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:09:15,470 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:09:15,470 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:09:50,579 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:09:50,748 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:09:50,749 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:09:50,750 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:09:50,751 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:10:10,158 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:10:10,320 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:10:10,321 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:10:10,322 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:10:10,322 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:10:26,809 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:10:26,972 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:10:26,973 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:10:26,973 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:10:26,973 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:10:41,286 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:10:41,451 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:10:41,451 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:10:41,452 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:10:41,452 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:11:01,390 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:11:01,551 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:11:01,552 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:11:01,553 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:11:01,553 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:11:03,763 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:11:03,953 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:11:03,954 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:11:03,955 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:11:03,955 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:12:57,206 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:12:57,386 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:12:57,387 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:12:57,388 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:12:57,388 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:13:13,872 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:13:14,031 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:13:14,031 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:13:14,032 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:13:14,032 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:29:51,097 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:29:51,326 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\Film.class" with enhanced definition
+00:29:51,335 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\User.class" with enhanced definition
+00:29:51,344 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\user2ticket.class" with enhanced definition
+00:29:51,349 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:31:47,614 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:31:47,768 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:31:47,768 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:31:47,769 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:31:47,769 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:35:30,397 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:35:30,556 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:35:30,557 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:35:30,557 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:35:30,557 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:36:19,954 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:36:20,142 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:36:20,143 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:36:20,144 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:36:20,145 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:36:35,722 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:36:35,883 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:36:35,884 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:36:35,885 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:36:35,885 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:37:00,523 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:37:00,681 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:37:00,682 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:37:00,682 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:37:00,683 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:37:07,749 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:37:07,990 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:37:07,992 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:37:07,994 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:37:07,994 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:38:02,500 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:38:02,683 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:38:02,684 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:38:02,685 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:38:02,685 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:38:28,212 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:38:28,392 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:38:28,393 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:38:28,394 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:38:28,394 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:39:23,570 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:39:23,751 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:39:23,752 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:39:23,753 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:39:23,753 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:39:34,569 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:39:34,746 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:39:34,746 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:39:34,747 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:39:34,747 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:40:40,286 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:40:40,441 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:40:40,442 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:40:40,443 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:40:40,443 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:40:51,073 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:40:51,229 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:40:51,230 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:40:51,231 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:40:51,231 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:40:59,945 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:41:00,099 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:41:00,100 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:41:00,101 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:41:00,101 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:42:07,637 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:42:07,843 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:42:07,844 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:42:07,845 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:42:07,845 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:43:59,430 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:43:59,617 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:43:59,618 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:43:59,618 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:43:59,618 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:44:10,127 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:44:10,386 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:44:10,387 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:44:10,388 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:44:10,388 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:44:14,038 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:44:14,219 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:44:14,219 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:44:14,220 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:44:14,220 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:44:20,981 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:44:21,226 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:44:21,227 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:44:21,229 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:44:21,229 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:45:16,166 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:45:16,403 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:45:16,405 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:45:16,406 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:45:16,406 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:45:39,171 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:45:39,365 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:45:39,366 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:45:39,367 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:45:39,367 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:46:01,004 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:46:01,166 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:46:01,167 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:46:01,167 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:46:01,167 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:46:16,892 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:46:17,107 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:46:17,108 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:46:17,108 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:46:17,109 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:46:21,788 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:46:21,981 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:46:21,982 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:46:21,982 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:46:21,983 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:47:04,461 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:47:04,659 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:47:04,660 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:47:04,660 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:47:04,660 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:49:17,028 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:49:17,199 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:49:17,200 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:49:17,201 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:49:17,201 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:49:23,568 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:49:23,750 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:49:23,751 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:49:23,752 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:49:23,752 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:49:49,446 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:49:49,604 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:49:49,605 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:49:49,605 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:49:49,605 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:50:50,293 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:50:50,462 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:50:50,462 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:50:50,463 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:50:50,464 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:50:56,625 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:50:56,798 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:50:56,799 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:50:56,800 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:50:56,800 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:51:20,551 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:51:20,730 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:51:20,731 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:51:20,732 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:51:20,732 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:51:32,729 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:51:32,894 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:51:32,895 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:51:32,896 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:51:32,896 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:51:48,186 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:51:48,413 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:51:48,414 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:51:48,414 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:51:48,415 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:53:36,231 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:53:36,428 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:53:36,429 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:53:36,430 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:53:36,430 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+00:53:39,125 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+00:53:39,307 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+00:53:39,308 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+00:53:39,309 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+00:53:39,309 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:15,691 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:15,848 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:15,848 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:15,849 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:15,849 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:18,951 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:19,133 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:19,134 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:19,134 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:19,135 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:21,872 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:22,031 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:22,032 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:22,033 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:22,033 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:24,609 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:24,776 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:24,776 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:24,777 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:24,777 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:27,287 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:27,443 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:27,444 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:27,444 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:27,444 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:30,148 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:30,306 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:30,306 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:30,307 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:30,307 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:33,022 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:33,218 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:33,219 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:33,219 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:33,219 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:35,661 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:35,841 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:35,843 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:35,844 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:35,844 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:37,921 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:38,091 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:38,092 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:38,092 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:38,092 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:38,944 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:39,100 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:39,101 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:39,101 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:39,102 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:40,996 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:41,154 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:41,154 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:41,155 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:41,155 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:43,314 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:43,472 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:43,473 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:43,473 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:43,473 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:46,493 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:46,657 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:46,657 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:46,658 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:46,658 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:49,319 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:49,499 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:49,500 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:49,501 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:49,501 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:51,923 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:52,091 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:52,092 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:52,093 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:52,093 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:54,943 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:55,102 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:55,103 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:55,103 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:55,103 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:00:57,849 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:00:58,143 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:00:58,145 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:00:58,146 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:00:58,146 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:00,684 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:00,856 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:00,856 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:00,857 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:00,857 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:03,370 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:03,545 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:03,547 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:03,548 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:03,548 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:06,387 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:06,556 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:06,556 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:06,557 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:06,557 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:09,135 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:09,308 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:09,309 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:09,310 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:09,310 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:12,012 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:12,223 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:12,224 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:12,225 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:12,225 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:14,948 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:15,112 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:15,113 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:15,113 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:15,114 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:17,944 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:18,110 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:18,110 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:18,111 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:18,111 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:20,680 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:20,856 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:20,857 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:20,858 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:20,858 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:23,580 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:23,747 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:23,747 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:23,748 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:23,748 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:26,340 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:26,511 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:26,512 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:26,512 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:26,512 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:29,064 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:29,225 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:29,226 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:29,226 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:29,227 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:31,807 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:31,991 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:31,992 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:31,993 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:31,993 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:34,530 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:34,735 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:34,736 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:34,737 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:34,738 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:37,368 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:37,543 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:37,543 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:37,544 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:37,544 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:40,075 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:40,245 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:40,246 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:40,247 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:40,247 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:42,778 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:42,933 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:42,934 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:42,935 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:42,935 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:45,383 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:45,547 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:45,548 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:45,549 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:45,549 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:48,248 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:48,404 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:48,405 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:48,406 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:48,406 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:50,983 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:51,144 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:51,145 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:51,146 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:51,146 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:54,122 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:54,283 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:54,283 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:54,284 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:54,284 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:56,652 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:56,806 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:56,806 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:56,807 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:56,807 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:01:59,514 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:01:59,668 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:01:59,669 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:01:59,669 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:01:59,669 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:02,281 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:02,460 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:02,462 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:02,463 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:02,463 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:04,967 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:05,130 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:05,130 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:05,131 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:05,131 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:07,713 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:07,870 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:07,871 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:07,872 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:07,872 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:10,491 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:10,656 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:10,657 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:10,657 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:10,658 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:13,317 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:13,474 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:13,475 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:13,476 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:13,476 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:16,060 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:16,272 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:16,272 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:16,273 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:16,273 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:18,742 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:18,908 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:18,908 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:18,909 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:18,909 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:21,490 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:21,652 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:21,653 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:21,654 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:21,654 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:24,252 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:24,406 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:24,407 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:24,408 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:24,408 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:27,136 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:27,312 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:27,312 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:27,313 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:27,313 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:29,879 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:30,037 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:30,038 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:30,039 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:30,039 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:32,698 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:32,862 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:32,863 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:32,864 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:32,864 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:35,457 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:35,633 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:35,633 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:35,634 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:35,634 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:38,269 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:38,420 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:38,420 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:38,421 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:38,421 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:41,187 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:41,338 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:41,338 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:41,339 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:41,339 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:44,056 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:44,215 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:44,216 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:44,217 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:44,217 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:46,828 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:47,009 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:47,010 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:47,010 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:47,011 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:49,468 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:49,627 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:49,628 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:49,629 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:49,629 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:52,287 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:52,442 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:52,442 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:52,443 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:52,443 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:54,978 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:55,130 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:55,131 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:55,131 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:55,131 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:02:57,664 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:02:57,823 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:02:57,824 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:02:57,825 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:02:57,825 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:00,428 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:00,591 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:00,591 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:00,592 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:00,592 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:03,427 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:03,582 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:03,583 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:03,583 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:03,583 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:06,112 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:06,271 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:06,272 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:06,272 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:06,272 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:09,000 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:09,163 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:09,163 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:09,164 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:09,164 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:11,715 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:11,876 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:11,876 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:11,877 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:11,877 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:14,629 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:14,840 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:14,842 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:14,845 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:14,846 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:17,231 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:17,418 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:17,419 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:17,419 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:17,420 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:20,010 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:20,206 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:20,208 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:20,209 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:20,209 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:22,828 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:23,020 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:23,021 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:23,021 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:23,022 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:25,729 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:25,900 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:25,900 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:25,901 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:25,901 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:28,574 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:28,759 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:28,759 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:28,760 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:28,760 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:31,167 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:31,319 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:31,320 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:31,320 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:31,321 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:33,964 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:34,122 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:34,123 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:34,124 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:34,124 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:36,583 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:36,739 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:36,739 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:36,740 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:36,740 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:39,387 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:39,576 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:39,577 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:39,578 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:39,578 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:42,067 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:42,217 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:42,218 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:42,219 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:42,219 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:45,121 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:45,285 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:45,286 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:45,286 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:45,286 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:47,655 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:47,819 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:47,820 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:47,820 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:47,820 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:50,423 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:50,607 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:50,607 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:50,608 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:50,608 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:53,304 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:53,496 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:53,497 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:53,498 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:53,498 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:55,830 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:55,984 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:55,985 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:55,985 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:55,986 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:03:58,794 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:03:58,999 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:03:59,000 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:03:59,001 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:03:59,001 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:04:01,761 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:04:01,914 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:04:01,914 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:04:01,915 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:04:01,915 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:04:04,588 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:04:04,813 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:04:04,814 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:04:04,814 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:04:04,814 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:04:07,324 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:04:07,487 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:04:07,488 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:04:07,489 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:04:07,489 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+01:04:10,072 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+01:04:10,248 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+01:04:10,248 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+01:04:10,249 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+01:04:10,249 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:09:34,137 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:09:34,320 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\Film.class" with enhanced definition
+11:09:34,329 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\User.class" with enhanced definition
+11:09:34,338 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\user2ticket.class" with enhanced definition
+11:09:34,344 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:10:50,115 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:10:50,318 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:10:50,320 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:10:50,322 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:10:50,322 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:12:14,252 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:12:14,425 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:12:14,426 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:12:14,426 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:12:14,427 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:12:15,599 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:12:15,839 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:12:15,840 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:12:15,842 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:12:15,842 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:12:15,900 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:12:16,080 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:12:16,080 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:12:16,081 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:12:16,081 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:12:28,207 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:12:28,411 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:12:28,412 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:12:28,413 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:12:28,414 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:12:29,430 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:12:29,597 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:12:29,598 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:12:29,599 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:12:29,599 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:13:00,281 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:13:00,465 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:13:00,466 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:13:00,466 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:13:00,466 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:13:02,112 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:13:02,274 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:13:02,275 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:13:02,276 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:13:02,276 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:13:08,969 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:13:09,140 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:13:09,141 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:13:09,142 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:13:09,142 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:13:28,016 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:13:28,211 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:13:28,211 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:13:28,213 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:13:28,213 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:14:25,046 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:14:25,239 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:14:25,240 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:14:25,241 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:14:25,241 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:15:08,345 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:15:08,542 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:15:08,543 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:15:08,544 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:15:08,544 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:15:09,403 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:15:09,585 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:15:09,585 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:15:09,586 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:15:09,586 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:16:32,088 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:16:32,332 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:16:32,333 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:16:32,334 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:16:32,334 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:16:32,910 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:16:33,088 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:16:33,089 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:16:33,090 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:16:33,090 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:16:34,468 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:16:34,720 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:16:34,722 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:16:34,724 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:16:34,724 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:17:09,082 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:17:09,248 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:17:09,248 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:17:09,249 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:17:09,249 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:17:10,067 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:17:10,236 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:17:10,237 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:17:10,237 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:17:10,238 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:17:11,496 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:17:11,669 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:17:11,670 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:17:11,670 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:17:11,671 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:19:09,488 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:19:09,679 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:19:09,679 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:19:09,680 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:19:09,680 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:19:11,175 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:19:11,342 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:19:11,343 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:19:11,344 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:19:11,344 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:19:12,178 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:19:12,334 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:19:12,334 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:19:12,335 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:19:12,335 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+11:21:33,559 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+11:21:33,731 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+11:21:33,732 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+11:21:33,733 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+11:21:33,733 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+18:44:49,896 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+18:44:50,608 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+18:44:50,609 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+18:44:50,610 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+18:44:50,610 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+18:50:15,472 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+18:50:15,679 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+18:50:15,680 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+18:50:15,682 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+18:50:15,682 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+18:50:16,053 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+18:50:16,240 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+18:50:16,241 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+18:50:16,242 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+18:50:16,242 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+18:51:44,999 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+18:51:45,175 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+18:51:45,176 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+18:51:45,177 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+18:51:45,177 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+18:51:48,817 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+18:51:49,032 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+18:51:49,033 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+18:51:49,033 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+18:51:49,034 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+18:51:49,392 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+18:51:49,573 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+18:51:49,574 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+18:51:49,575 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+18:51:49,575 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+18:51:50,965 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+18:51:51,135 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+18:51:51,136 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+18:51:51,137 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+18:51:51,137 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.

@@ -6,6 +6,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
+<html xmlns:wb="http://open.weibo.com/wb">
 <html lang="en">
 	<head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -35,7 +36,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<![endif]-->
 
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-
+		<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=2349472200" type="text/javascript" charset="utf-8"></script>
 		<!--[if lt IE 9]>
 		<script src="assets/js/html5shiv.min.js"></script>
 		<script src="assets/js/respond.min.js"></script>
@@ -107,14 +108,13 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 											<div class="space-6"></div>
 
-											<div class="social-login center">
-												<a class="btn btn-primary">
-													微博
-												</a>
+											<div style="text-align:center;">
 
-												<a class="btn btn-info">
-													Q Q
-												</a>
+													<wb:login-button type="7,5" onlogin="login" onlogout="logout" onclick="weibologin()">登录按钮</wb:login-button>
+
+											
+											
+												
 
 											</div>
 										</div><!-- /.widget-main -->
@@ -305,6 +305,9 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			         });
 			}
 			
+			function weibologin(){
+				window.location.href=${path}"weibologin.do";
+			}
 		</script>
 		<div style="text-align:center;">
 </div>

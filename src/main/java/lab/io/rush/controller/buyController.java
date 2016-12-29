@@ -36,9 +36,9 @@ public class buyController  {
 		//创建redis对象
 		Jedis jedis = redisUtil.getRedis();
 		String filmid = request.getParameter("id");
-		String filmname = request.getParameter("filmname");
+		final String filmname = request.getParameter("filmname");
 		int number = Integer.parseInt(jedis.get(filmid));
-		String username = (String)request.getSession().getAttribute("user");
+		final String username = (String)request.getSession().getAttribute("user");
 		//判断是否还有余量，并判断用户是否已经订票了
 		if(number > 0){
 			String record = jedis.get(filmid+"record");
@@ -46,14 +46,18 @@ public class buyController  {
 				record = record +";" +username;
 				jedis.set(filmid, (number-1)+"");
 				jedis.set(filmid+"record", record);
-				 final User user = userService.findUserByname(username);
-				 final String content = "亲爱的" + user.getName()+"恭喜你，成功购买电影票《"+filmname+"》，请准时观看！";
+				 
 				//因为发送邮件需要比较长的时间，这里新建一个线程
 				 new Thread(){
 					public void run() {
-						Mymail mail = new Mymail("电影票抢购成功",content,user.getMail());
 						try {
-							mail.send();
+							User user = userService.findUserByname(username);
+							String content = "亲爱的" + username +"恭喜你，成功购买电影票《"+filmname+"》，请准时观看！";
+							if(user.getMail()!= null){
+								Mymail mail = new Mymail("电影票抢购成功",content,user.getMail());
+								mail.send();
+							}
+							
 						} catch (MessagingException e) {
 							// TODO Auto-generated catch block
 							e.printStackTrace();
