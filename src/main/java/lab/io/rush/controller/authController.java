@@ -25,8 +25,9 @@ public class authController {
 	public ModelAndView handleRequest(HttpServletRequest request,
 			HttpServletResponse response) throws Exception {
 		String code = request.getParameter("code"); 
+		if(code != null && !code.isEmpty()){
 			Oauth oauth = new Oauth();  
-	        String token;
+	        String token = null;
 			try {
 				token = oauth.getAccessTokenByCode(code).toString();
 		        String str[] = token.split(","); 
@@ -41,8 +42,11 @@ public class authController {
 			} catch (Exception e1) {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
-			}       
+			}
 		response.sendRedirect(request.getContextPath()+"/index.do");
+		}else{
+			response.sendRedirect(request.getContextPath()+"/login.jsp");
+		}
 		return null;  
 	}
 }
