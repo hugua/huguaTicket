@@ -110,8 +110,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 											<div style="text-align:center;">
 
-													<wb:login-button type="7,5" onlogin="login" onlogout="logout" onclick="weibologin()">登录按钮</wb:login-button>
-
+													<a href=${path}"weibologin.do">微博登录</a>
+													<a href=${path}"qqlogin.do">QQ登录</a>
 											
 											
 												
