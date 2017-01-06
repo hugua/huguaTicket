@@ -1527,3 +1527,25 @@
 09:09:42,086 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\User.class" with enhanced definition
 09:09:42,096 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\user2ticket.class" with enhanced definition
 09:09:42,102 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+10:19:02,314 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+10:19:02,635 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\Film.class" with enhanced definition
+10:19:02,662 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\User.class" with enhanced definition
+10:19:02,675 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\user2ticket.class" with enhanced definition
+10:19:02,681 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+10:24:00,906 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+10:24:01,101 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\Film.class" with enhanced definition
+10:24:01,111 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\User.class" with enhanced definition
+10:24:01,120 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\user2ticket.class" with enhanced definition
+10:24:01,126 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+10:25:43,424 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+10:25:43,598 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.Film" is already enhanced.
+10:25:43,599 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.User" is already enhanced.
+10:25:43,600 (main) INFO  [DataNucleus.Enhancer] - Class "lab.io.rush.entity.user2ticket" is already enhanced.
+10:25:43,600 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
+10:25:50,797 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+10:25:50,902 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed and no classes were enhanced. Consult the log for full details
+10:26:27,701 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.0.6) for API "JDO"
+10:26:27,886 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\Film.class" with enhanced definition
+10:26:27,895 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\User.class" with enhanced definition
+10:26:27,904 (main) INFO  [DataNucleus.Enhancer] - Writing class file "D:\eclipse\eclipse\huguaTicket\target\classes\lab\io\rush\entity\user2ticket.class" with enhanced definition
+10:26:27,909 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes.
